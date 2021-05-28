@@ -1,0 +1,4 @@
+btrack>=0.4.1
+optuna
+numpy
+scipy
